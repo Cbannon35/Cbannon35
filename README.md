@@ -5,8 +5,8 @@ Inspiration from Nida Khan's Tutorial: https://www.sitepoint.com/github-profile-
 <!--- Header Section --->
 <div id="header" align="center">
 
-  <!--- PFP taken from xd;marc kkj on pinterest: https://www.pinterest.com/pin/50876670782359261/ --->
-  <img src="https://i.pinimg.com/originals/15/ba/fc/15bafce4004fd0f128f9ee16c11190ee.jpg" width="150"/>
+  <!--- PFP is the original starwalker from Toby Fox's deltarune --->
+  <img src="https://64.media.tumblr.com/66e6e917aff09353134d6354663e2cd6/9870ac119e3c1274-56/s1280x1920/1b6e27ef27847091890babad5cbb4e6586206a3e.gifv" width="150"/>
   
   <!--- Socials/links --->
   <div id="badges">
