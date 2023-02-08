@@ -13,6 +13,7 @@ Inspiration from Nida Khan's Tutorial: https://www.sitepoint.com/github-profile-
     <a href="https://linkedin.com/in/cbannon">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://cbannon.com">My Website</a>
   </div>
   
   <!--- Profile Tracker --->
@@ -32,7 +33,8 @@ Inspiration from Nida Khan's Tutorial: https://www.sitepoint.com/github-profile-
 ### :man_technologist: About Me :
 - 🌱 I’m currently learning computer science at UCB
 - 📫 Reach me at bannon.c.35@gmail.com
-- 🤝 Connect With Me! [![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cbannon)
+- 🤝 Connect With Me! ![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)
+- 💻 Visit my website: <a href="https://cbannon.com">Cbannon.com</a>
 </div>
 
 ---
