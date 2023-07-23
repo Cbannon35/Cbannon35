@@ -5,8 +5,8 @@ Inspiration from Nida Khan's Tutorial: https://www.sitepoint.com/github-profile-
 <!--- Header Section --->
 <div id="header" align="center">
 
-  <!--- PFP is the original starwalker from Toby Fox's deltarune --->
-  <img src="https://64.media.tumblr.com/66e6e917aff09353134d6354663e2cd6/9870ac119e3c1274-56/s1280x1920/1b6e27ef27847091890babad5cbb4e6586206a3e.gifv" width="150"/>
+  <!--- PFP is the original starwalker from Toby Fox's deltarune 
+  <img src="https://64.media.tumblr.com/66e6e917aff09353134d6354663e2cd6/9870ac119e3c1274-56/s1280x1920/1b6e27ef27847091890babad5cbb4e6586206a3e.gifv" width="150"/> --->
 
 
   <p>"Do you understand? When I am done telling you these stories, when you're am done listening to these stories, I am no longer I, and you are no longer you. In this afternoon, we briefly merged into one. After this, you will always carry a bit of me, and I will always carry a bit of you, even if we both forget this conversation." -<a href="https://www.tiktok.com/@liminalonions/video/7133426603916348718">cite</a></p>
