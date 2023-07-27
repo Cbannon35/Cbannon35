@@ -12,7 +12,7 @@ Inspiration from Nida Khan's Tutorial: https://www.sitepoint.com/github-profile-
   <p>"Do you understand? When I am done telling you these stories, when you're am done listening to these stories, I am no longer I, and you are no longer you. In this afternoon, we briefly merged into one. After this, you will always carry a bit of me, and I will always carry a bit of you, even if we both forget this conversation." -<a href="https://www.tiktok.com/@liminalonions/video/7133426603916348718">cite</a></p>
 
   <h3>
-    <a href="cbannon.com">www</a> &emsp; &emsp;
+    <a href="https://www.cbannon.com">www</a> &emsp; &emsp;
     <a href="https://www.are.na/christopher-bannon">✶✶</a>
   </h3>
 
