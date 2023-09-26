@@ -13,7 +13,8 @@ Inspiration from Nida Khan's Tutorial: https://www.sitepoint.com/github-profile-
 
   <h3>
     <a href="https://www.cbannon.com">www</a> &emsp; &emsp;
-    <a href="https://www.are.na/christopher-bannon">✶✶</a>
+    <a href="https://www.are.na/christopher-bannon">✶✶</a> &emsp; &emsp;
+    <a href="https://editor.p5js.org/Cbannon35/sketches">p5</a>
   </h3>
 
 </div>
