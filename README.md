@@ -1,6 +1,6 @@
 <!--- Header Section --->
 
-<p>"Do you understand? When I am done telling you these stories, when you're am done listening to these stories, I am no longer I, and you are no longer you. In this afternoon, we briefly merged into one. After this, you will always carry a bit of me, and I will always carry a bit of you, even if we both forget this conversation." -Hao Jingfang
+<p>"Do you understand? When I am done telling you these stories, when you are done listening to these stories, I am no longer I, and you are no longer you. In this afternoon, we briefly merged into one. After this, you will always carry a bit of me, and I will always carry a bit of you, even if we both forget this conversation." -Hao Jingfang
 
  <!-- <h3 align="center">
     <a href="https://www.cbannon.com">www</a> &emsp; &emsp;
